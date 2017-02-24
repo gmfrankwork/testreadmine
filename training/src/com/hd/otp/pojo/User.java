@@ -9,7 +9,16 @@ public class User {
     
     private String email;
     
+    private String level;
     
+	public String getLevel() {
+		return level;
+	}
+
+	public void setLevel(String level) {
+		this.level = level;
+	}
+
 	public String getEmail() {
 		return email;
 	}
