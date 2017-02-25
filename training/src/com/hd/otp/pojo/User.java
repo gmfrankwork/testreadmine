@@ -2,6 +2,7 @@
  * @author frankdou
  * @version 1.0
  * ”√ªß¿‡
+ * sthis is
  */
 package com.hd.otp.pojo;
 
