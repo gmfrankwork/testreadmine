@@ -1,6 +1,7 @@
 /**
  * @author frankdou
  * @version 1.0
+ * ”√ªß¿‡
  */
 package com.hd.otp.pojo;
 
