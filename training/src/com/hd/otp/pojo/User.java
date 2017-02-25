@@ -26,6 +26,11 @@ public class User implements Serializable {
 		this.age = age;
 	}
 
+	public User() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
 	private int id;
     
     private String name;
