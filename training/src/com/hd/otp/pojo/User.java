@@ -84,5 +84,7 @@ public class User implements Serializable {
 	public void say(){
 		System.out.println("adas");
 	}
-	
+	public void says(){
+		System.out.println("adas");
+	}
 }
